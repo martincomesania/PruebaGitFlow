@@ -15,8 +15,8 @@ namespace View
             persona.Name = "Peperino";
             persona.Edad = 20;
             persona.Apodo = "Pepe";
-
-            Console.WriteLine(persona.Name+" / "+persona.Edad+" / "+persona.Apodo);
+            persona.Email = "persona@gmail.com";
+            Console.WriteLine(persona.Name+" / "+persona.Edad+" / "+persona.Email + " / " + persona.Apodo);
             Console.ReadLine();
         }
     }
