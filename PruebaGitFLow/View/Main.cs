@@ -14,8 +14,9 @@ namespace View
             Persona persona = new Persona();
             persona.Name = "Peperino";
             persona.Edad = 20;
+            persona.Email = "persona@gmail.com";
 
-            Console.WriteLine(persona.Name+" / "+persona.Edad);
+            Console.WriteLine(persona.Name+" / "+persona.Edad+" / "+persona.Email);
             Console.ReadLine();
         }
     }
