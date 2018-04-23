@@ -1,0 +1,8 @@
+C:\Users\Both\Documents\Visual Studio 2015\PruebaGitFlow\PruebaGitFLow\View\bin\Debug\View.exe.config
+C:\Users\Both\Documents\Visual Studio 2015\PruebaGitFlow\PruebaGitFLow\View\bin\Debug\View.exe
+C:\Users\Both\Documents\Visual Studio 2015\PruebaGitFlow\PruebaGitFLow\View\bin\Debug\View.pdb
+C:\Users\Both\Documents\Visual Studio 2015\PruebaGitFlow\PruebaGitFLow\View\bin\Debug\PruebaGitFLow.dll
+C:\Users\Both\Documents\Visual Studio 2015\PruebaGitFlow\PruebaGitFLow\View\bin\Debug\PruebaGitFLow.pdb
+C:\Users\Both\Documents\Visual Studio 2015\PruebaGitFlow\PruebaGitFLow\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\Both\Documents\Visual Studio 2015\PruebaGitFlow\PruebaGitFLow\View\obj\Debug\View.exe
+C:\Users\Both\Documents\Visual Studio 2015\PruebaGitFlow\PruebaGitFLow\View\obj\Debug\View.pdb

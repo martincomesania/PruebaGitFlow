@@ -1,0 +1,21 @@
+﻿using PruebaGitFLow;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace View
+{
+    class View
+    {
+        static void Main(string[] args)
+        {
+            Persona persona = new Persona();
+            persona.Name = "Peperino";
+
+            Console.WriteLine(persona.Name);
+            Console.Read();
+        }
+    }
+}
