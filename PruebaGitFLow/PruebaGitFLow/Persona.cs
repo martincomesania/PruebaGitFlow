@@ -9,6 +9,6 @@ namespace PruebaGitFLow
     public class Persona
     {
         public String Name { set; get; }
-
+        public Int32 Edad { set; get; }
     }
 }

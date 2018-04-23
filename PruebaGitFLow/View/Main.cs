@@ -13,9 +13,10 @@ namespace View
         {
             Persona persona = new Persona();
             persona.Name = "Peperino";
+            persona.Edad = 20;
 
-            Console.WriteLine(persona.Name);
-            Console.Read();
+            Console.WriteLine(persona.Name+" / "+persona.Edad);
+            Console.ReadLine();
         }
     }
 }
